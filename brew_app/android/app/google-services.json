@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997102208336",
+    "project_id": "brew-app-94a64",
+    "storage_bucket": "brew-app-94a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997102208336:android:12f7d1a493d3b2e805d855",
+        "android_client_info": {
+          "package_name": "com.rohit0110.brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997102208336-nj8045lt420shq2cfoitesbfjg8pmg60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfklduH3umJV4GAdFKOynkhH2hiV2JzUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997102208336-nj8045lt420shq2cfoitesbfjg8pmg60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
